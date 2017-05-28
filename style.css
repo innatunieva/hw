@@ -1,0 +1,53 @@
+
+p#paragraph1 {
+	font-family: cursive; color: black; font-size: 20px;
+}
+ul#benefits1 {
+	font-family: cursive; font-size: 20px;
+}
+
+ul#benefits2  {
+	font-family: cursive; font-size: 20px;
+}
+
+body {
+	color:;
+} #021028
+div#id1 {
+	background-image: ;
+	color: #6d3259;
+}
+div#id1:hover {
+		color: #246366;
+		font-family: cursive;
+		font-size: 20px;
+	}
+div#id2 {
+	font-family: 'Shadows Into Light', cursive;
+}
+
+	div#id2:hover {
+		background-image: url(https://i.ytimg.com/vi/Lx_2emzBdC0/maxresdefault.jpg);
+		font-size: 20px;
+	}
+
+p#p1 {
+	color: #0d210d;
+}
+
+table#languages, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center
+}
+table#languages:hover {
+	border-image-slice: url(https://i.ytimg.com/vi/Lx_2emzBdC0/maxresdefault.jpg);
+}
+a#i1:visited {
+	color: #343738;
+}
+a#i2:visited {
+	color: #343738;
+}
+a#i3:visited {
+	color: #343738;
