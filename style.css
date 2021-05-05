@@ -27,7 +27,7 @@ div#id2 {
 }
 
 	div#id2:hover {
-		background-image: url(https://i.ytimg.com/vi/Lx_2emzBdC0/maxresdefault.jpg);
+		background-image: url(https://i.pinimg.com/originals/30/7f/ed/307fedaf668902799cb6f97b419d36db.jpg);
 		font-size: 20px;
 	}
 
@@ -41,7 +41,7 @@ table#languages, th, td {
     text-align: center
 }
 table#languages:hover {
-	border-image-slice: url(https://i.ytimg.com/vi/Lx_2emzBdC0/maxresdefault.jpg);
+	border-image-slice: url(https://i.pinimg.com/originals/30/7f/ed/307fedaf668902799cb6f97b419d36db.jpg);
 }
 a#i1:visited {
 	color: #343738;
